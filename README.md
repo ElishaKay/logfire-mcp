@@ -7,3 +7,8 @@
 Read more in our [documentation](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/).
 
 If you have any questions, reach out to us on [Slack](https://logfire.pydantic.dev/docs/join-slack/) or email us at [engineering@pydantic.dev](mailto:engineering@pydantic.dev).
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/pydantic-logfire-mcp).
+
